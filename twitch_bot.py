@@ -5,9 +5,9 @@ import requests
 import bs4
 from keep_alive import keep_alive
 
-clientid = 'gs3d9xd2s7al7ztxtjm3gk1rpb668o'
-client_secret = 'at0ebcmpbdjcotbgu4klwxdvt8hgy7'
-oauth = 'oauth:arzua9vwmj9da52wrezg9pqmcmg1e3'
+clientid = 'xxx'
+client_secret = 'xxx'
+oauth = 'xxx'
 
 bot = commands.Bot(
     irc_token= oauth,
